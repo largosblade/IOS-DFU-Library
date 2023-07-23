@@ -18,8 +18,8 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/weichsel/ZIPFoundation",
-      .exact("0.9.11")
+      url: "https://github.com/largosblade/ZIPFoundation.git",
+      .exact("0.9.17")
     )
   ],
   targets: [
